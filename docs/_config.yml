@@ -1,5 +1,5 @@
 title: "FinBook"
-theme: mmistakes/minimal-mistakes
+remote-theme: mmistakes/minimal-mistakes
 
 header_pages:
   - UserGuide.md
